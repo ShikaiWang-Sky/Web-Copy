@@ -104,7 +104,7 @@ max-height: 360px;
 
 .btn-default{
 	border:1px solid #41998c !important;
-	border-radius: none !important;
+	border-radius: 10px !important;
 	color:#41998c !important;
 	font-size:14px;
 	padding-left:20px;
